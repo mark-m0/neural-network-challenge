@@ -63,7 +63,7 @@ In a final attempt to optimize the model, I decided to utilize some features fro
 
 ![image](https://user-images.githubusercontent.com/106498287/204123564-5bc9be66-54f3-4dfb-9712-b61d67b114df.png)
 
-This model resulted in an accuracy score of 0.726064145565033, or 72.61%. As such, the best working model (the tuner model) was saved for potential further use.
+This model resulted in an accuracy score of 0.726064145565033, or 72.61%. As such, the best working model (the tuner model) was saved for potential further use/optimization.
 
 
 ## Summary
